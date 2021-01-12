@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://spiritbearcoffeecompany.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spiritbearcoffeecompany.com/fr/collections/gift-cards.atom"/>
+  <title>Spirit Bear Coffee Company</title>
+  <updated>2020-10-06T15:12:46-07:00</updated>
+  <author>
+    <name>Spirit Bear Coffee Company</name>
+  </author>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/fr/products/5756440576166</id>
+    <published>2020-10-06T15:12:46-07:00</published>
+    <updated>2020-10-06T15:12:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/fr/products/spirit-bear-coffee-gift-cards"/>
+    <title>Spirit Bear Coffee Gift Cards</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-collection-gift-cards_f2521cf7-6857-49fd-9a35-e2509b44534f.jpg?v=1602264327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Spirit Bear Coffee Company<br>
+        <strong>Type : </strong>Gift Card<br>
+        <strong>Prix : </strong>
+            10.00 - 100.00
+            <a href="https://spiritbearcoffeecompany.com/fr/products/spirit-bear-coffee-gift-cards">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Spirit Bear Coffee makes the perfect gift for someone in your life. With any holiday or birthday or special occasion right around the corner, you'll want to make someone's special day, even better with Spirit Bear Coffee Gift Cards.</p>
+<p>Need a custom amount? Give us a call at 604-468-4442 or email info@spiritbearcoffeecompany.com &amp; we can get it set up for you.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gift cards</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5756440576166</id>
+      <title>$10.00</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5756440576166</id>
+      <title>$25.00</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5756440576166</id>
+      <title>$50.00</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5756440576166</id>
+      <title>$100.00</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

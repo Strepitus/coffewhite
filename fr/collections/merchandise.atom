@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://spiritbearcoffeecompany.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spiritbearcoffeecompany.com/fr/collections/merchandise.atom"/>
+  <title>Spirit Bear Coffee Company</title>
+  <updated>2020-12-01T16:33:00-08:00</updated>
+  <author>
+    <name>Spirit Bear Coffee Company</name>
+  </author>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/fr/products/4199687880763</id>
+    <published>2020-12-01T16:33:00-08:00</published>
+    <updated>2020-12-01T16:33:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/fr/products/hoodie"/>
+    <title>Embroidered Zip Hoodie</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-hoodie-shirt-bear-black-back.jpg?v=1605893049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Spirit Bear Coffee Company<br>
+        <strong>Type : </strong>Merchandise<br>
+        <strong>Prix : </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is that comfy hoodie you're always stealing from someone else's closet (girlfriends we're looking at you). PLUS, it's got our awesome Spirit Bear Coffee Company logo embroidered on it.</p>
+<p>Unisex fit</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199687880763</id>
+      <title>S</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199687880763</id>
+      <title>M</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199687880763</id>
+      <title>L</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199687880763</id>
+      <title>XL</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199687880763</id>
+      <title>2XL</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199687880763</id>
+      <title>3XL</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199687880763</id>
+      <title>4XL</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/fr/products/5973818867878</id>
+    <published>2020-11-27T15:45:17-08:00</published>
+    <updated>2020-11-27T15:45:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/fr/products/ball-cap"/>
+    <title>Ball Cap</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-black-hats-logo-unisex-front_74f54008-3b5f-46f9-a074-acc2ebdaf1e2.jpg?v=1607120900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Spirit Bear Coffee Company<br>
+        <strong>Type : </strong>Merchandise<br>
+        <strong>Prix : </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A classic dad cap with SBCC embroidered logo on the front, text on the side, and an adjustable velcro back.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5973818867878</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/fr/products/5934727004326</id>
+    <published>2020-11-13T17:39:19-08:00</published>
+    <updated>2020-11-13T17:39:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/fr/products/got-bear-t-shirt"/>
+    <title>Got Bear? T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-got-bear-t-shirt-black-front-back-11.jpg?v=1605893053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Spirit Bear Coffee Company<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Available in unisex adult &amp; youth sizes!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934727004326</id>
+      <title>Youth S</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934727004326</id>
+      <title>Youth M</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934727004326</id>
+      <title>Youth L</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934727004326</id>
+      <title>Youth XL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934727004326</id>
+      <title>Adult S</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934727004326</id>
+      <title>Adult M</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934727004326</id>
+      <title>Adult L</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934727004326</id>
+      <title>Adult XL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934727004326</id>
+      <title>Adult 2XL</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/fr/products/5934687289510</id>
+    <published>2020-11-13T17:21:53-08:00</published>
+    <updated>2020-11-13T17:21:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/fr/products/dont-feed-the-bears-t-shirt"/>
+    <title>Don&apos;t Feed The Bears T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-dont-feed-the-bears-shirt-back.jpg?v=1605893052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Spirit Bear Coffee Company<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>B.E.A.R.S. stands for Bear Education, Awareness, &amp; Resource Society. The name reflects the expansion of our human &amp; carnivore coexistence programs to include the large carnivore species. B.E.A.R.S. is focused on promoting bear smart approaches for communities, recreationalists, hunters, new residents to Canada, students, businesses, etc. Safely coexisting with bears is possible &amp; we can reduce obstacles to bear recovery &amp; release as well. "A fed bear is a dead bear" therefore, our primary goal is preventing bear exposure to human provided foods of any kind. </p>
+<p>Unisex fit</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934687289510</id>
+      <title>L</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934687289510</id>
+      <title>XL</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/5934687289510</id>
+      <title>2XL</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/fr/products/4199725793339</id>
+    <published>2019-10-10T13:53:35-07:00</published>
+    <updated>2019-10-10T13:53:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/fr/products/short-sleeve-t-shirt"/>
+    <title>Short Sleeve T-Shirt</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-basic-t-shirt-black-front-womens.jpg?v=1605288535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Spirit Bear Coffee Company<br>
+        <strong>Type : </strong>Merchandise<br>
+        <strong>Prix : </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with 100% preshrunk cotton, this custom Spirit Bear Coffee Company t-shirt features a double needle top-stitched neckline, double stitched sleeve, waist hems and a seamless collar with taped neck and shoulders for a sleek design. </span></p>
+<p><span>Unisex fit</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199725793339</id>
+      <title>S</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199725793339</id>
+      <title>M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199725793339</id>
+      <title>L</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199725793339</id>
+      <title>XL</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199725793339</id>
+      <title>2XL</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199725793339</id>
+      <title>3XL</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/4199725793339</id>
+      <title>4XL</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/fr/products/2255286566971</id>
+    <published>2019-05-29T13:18:07-07:00</published>
+    <updated>2019-05-29T13:18:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/fr/products/travel-mug"/>
+    <title>Stuff Bear w/ Spirit Bear Hoodie</title>
+    <s:type>Merchandise</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-plush-stuffed-bear.jpg?v=1605893047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Spirit Bear Coffee Company<br>
+        <strong>Type : </strong>Merchandise<br>
+        <strong>Prix : </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This adorable stuffed bear comes with a mini Spirit Bear branded hoodie</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/2255286566971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+</feed>

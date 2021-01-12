@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://spiritbearcoffeecompany.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://spiritbearcoffeecompany.com/blogs/news.atom"/>
+  <title>Spirit Bear Coffee Company - News</title>
+  <updated>2020-10-31T00:13:18-07:00</updated>
+  <author>
+    <name>Spirit Bear Coffee Company</name>
+  </author>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/blogs/news/drink-coffee-save-whales</id>
+    <published>2020-10-31T00:13:18-07:00</published>
+    <updated>2020-11-02T17:57:53-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/blogs/news/drink-coffee-save-whales"/>
+    <title>Drink Coffee | Save Whales</title>
+    <author>
+      <name>Angela Gee</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Healthy whales, healthy oceans, healthy humans. Spirit Bear Coffee Company collaborates with Ocean Alliance!<p><a class="read-more" href="https://spiritbearcoffeecompany.com/blogs/news/drink-coffee-save-whales">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h2>Ocean Alliance Teams Up With Spirit Bear Coffee Company<br><img src="https://cdn.shopify.com/s/files/1/0070/4911/7755/files/SBCC-OceanAlliance-SnotBot-BlogPost-Whales_970cab51-f74f-4da4-ad3d-ac6d24d0d9f7_2048x2048.jpg?v=1604198923" alt="Ocean Alliance SnotBot program blog header image spirit bear coffee company">
+</h2>
+<p>Spirit Bear Coffee Company believes that humans are stewards for the planet and without healthy oceans, we won’t have a viable home. “Ocean Alliance’s mission is to protect whales and their ocean environment through research, scientific collaboration, public education, and the arts.” In order to accomplish this, they study the largest mammals on the planet: whales. We are so excited to announce the partnership between <strong><a href="https://whale.org/" target="_blank" title="ocean alliance web link" rel="noopener noreferrer">Ocean Alliance</a></strong> and Spirit Bear Coffee Company. Starting November 1st, when you buy our <strong><a href="https://spiritbearcoffeecompany.com/collections/coffee/products/orca-dark-roast" target="_blank" title="orca dark roast coffee product link" rel="noopener noreferrer">Orca Dark Roast</a></strong> or <strong><a href="https://spiritbearcoffeecompany.com/collections/coffee/products/dolphin-decaffeinated" target="_blank" title="spirit bear coffee company dolphin swiss water decaf coffee link" rel="noopener noreferrer">Dolphin Swiss Water Processed Decaf</a></strong>, a portion of the profits will be going directly to Ocean Alliance.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0070/4911/7755/files/SBCC-OceanAlliance-SnotBot-BlogPost-Coffees_2048x2048.jpg?v=1604123156" alt="Spirit Bear Coffee Company Orca Dark Roast Dolphin Decaf"></p>
+<p>In prior years, studying whales involved taking skin/blubber biopsies to determine pollutant levels in whales and our ocean food chains as well as assessing the overall health of the whale. As technology progressed, <strong>Ocean Alliance</strong> developed a new non-invasive method of sample collection. The lead initiative in their <strong>Drones For Whale Research</strong> program is <strong>SnotBot</strong>®, a drone that collects a priceless biological data set from the whales exhalation. <strong>SnotBot</strong>® is a drone that has been outfitted with petri dishes. As the whale exhales, biological material is sprayed up into the air where the <strong>SnotBot</strong>® waits. Through analysis of the whales blow (or Snot), we can examine DNA, hormones, and microbiomes which helps us assess the health of the whale which mirrors the health of our oceans.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0070/4911/7755/files/SBCC-OceanAlliance-SnotBot-BlogPost-Drone_2048x2048.jpg?v=1604123530" alt="Ocean Alliance SnotBot Drone"> </p>
+<p><strong>Spirit Bear Coffee Company</strong> wants to help <strong>Ocean Alliance</strong> by providing funding to go towards their <strong>SnotBot</strong> program, specifically leaving drones and protocols in the countries this program visits. Help us help our oceans. Visit <strong><a href="https://whale.org/snotbot/" target="_blank" title="ocean alliance snotbot web link" rel="noopener noreferrer">https://whale.org/snotbot/</a></strong> to learn more about <strong>SnotBot</strong>® or <strong><a href="https://whale.org/" target="_blank" title="ocean alliance web link" rel="noopener noreferrer">visit https://whale.org/</a></strong> to make a direct donation to Ocean Alliance or check out their adopt a whale program.</p>
+<p>As Ocean Alliance so eloquently puts it “<strong>Healthy Whales, Healthy Oceans, Healthy Humans</strong>”.</p>
+<h2>Donation Details</h2>
+<p>$1 donation for every 400g bag purchase of Orca Dark Roast or Dolphin Swiss Water Decaf Roast</p>
+<p>$2 donation for every 1kg bag purchase of Orca Dark Roast or Dolphin Swiss Water Decaf Roast</p>
+<p>$1 donation per 24 Orca Dark Roast compostable Keurig<span>®️</span> compatible pods </p>
+<p><strong><a href="https://spiritbearcoffeecompany.com/collections/snotbot-x-spirit-bear-coffee" title="Spirit Bear Coffee Company Shop">Click To Shop</a></strong><br><br></p>]]>
+    </content>
+  </entry>
+</feed>

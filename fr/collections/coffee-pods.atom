@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://spiritbearcoffeecompany.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spiritbearcoffeecompany.com/fr/collections/coffee-pods.atom"/>
+  <title>Spirit Bear Coffee Company</title>
+  <updated>2019-04-26T17:51:25-07:00</updated>
+  <author>
+    <name>Spirit Bear Coffee Company</name>
+  </author>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/fr/products/2227455197243</id>
+    <published>2019-04-26T17:51:25-07:00</published>
+    <updated>2019-04-26T17:51:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/fr/products/orca-dark-roast-coffee-pods"/>
+    <title>Orca - Dosettes de café torréfiées foncées</title>
+    <s:type>Dark Roast</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-orca-dark-roast-coffee-pods.jpg?v=1607985246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Spirit Bear Coffee Company<br>
+        <strong>Type : </strong>Dark Roast<br>
+        <strong>Prix : </strong>
+            5.98 - 42.98
+            <a href="https://spiritbearcoffeecompany.com/fr/products/orca-dark-roast-coffee-pods">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>La bonté est au cœur de ce café torréfié noir riche et noisette. Orca a une saveur intense et riche avec une finale subtile mais agréable.</p>
+<p><strong>Saveur</strong>: Riche, épicé et "Modéré<span> </span>Excellence "en saveur</p>
+<p><strong>Acidité</strong>: Faible</p>
+<p><strong>Régions</strong>: Asie et Amérique du Sud</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/2227455197243</id>
+      <title>12 Single Serving Pods</title>
+      <s:price currency="CAD">5.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/2227455197243</id>
+      <title>24 Single Serving Pods</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/2227455197243</id>
+      <title>36 Single Serving Pods</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/2227455197243</id>
+      <title>100 Single Serving Pods</title>
+      <s:price currency="CAD">42.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/fr/products/2227454771259</id>
+    <published>2019-04-26T17:49:02-07:00</published>
+    <updated>2019-04-26T17:49:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/fr/products/eagle-medium-roast-coffee-pods"/>
+    <title>Eagle - Dosettes de café à torréfaction moyenne</title>
+    <s:type>Medium Roast</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-eagle-medium-roast-coffee-pods.jpg?v=1607984960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Distributeur : </strong>Spirit Bear Coffee Company<br>
+        <strong>Type : </strong>Medium Roast<br>
+        <strong>Prix : </strong>
+            5.98 - 42.98
+            <a href="https://spiritbearcoffeecompany.com/fr/products/eagle-medium-roast-coffee-pods">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Eagle apporte une saveur éclatante et une superbe force à une tasse corsée. Mélangé à partir des meilleurs haricots d'Amérique centrale et d'Amérique du Sud, le bon goût d'Eagle est sûr de satisfaire.</p>
+<p><strong>Saveur</strong>: Parfaitement équilibré pour une palette exigeante</p>
+<p><strong>Acidité</strong>: Faible</p>
+<p><strong>Régions</strong>: Amérique centrale et du sud</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/2227454771259</id>
+      <title>12 Single Serving Pods</title>
+      <s:price currency="CAD">5.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/2227454771259</id>
+      <title>24 Single Serving Pods</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/2227454771259</id>
+      <title>36 Single Serving Pods</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/fr/products/2227454771259</id>
+      <title>100 Single Serving Pods</title>
+      <s:price currency="CAD">42.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

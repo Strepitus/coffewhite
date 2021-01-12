@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://spiritbearcoffeecompany.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spiritbearcoffeecompany.com/collections/coffee.atom"/>
+  <title>Spirit Bear Coffee Company</title>
+  <updated>2020-06-03T12:55:30-07:00</updated>
+  <author>
+    <name>Spirit Bear Coffee Company</name>
+  </author>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/5285622120614</id>
+    <published>2020-06-03T12:55:30-07:00</published>
+    <updated>2020-06-03T12:55:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/sampler-pack"/>
+    <title>Sampler Pack</title>
+    <s:type>Gift Packs</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-roast-coffee-sampler-packs.jpg?v=1607985147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong>Gift Packs<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A delicious sampler pack featuring:</p>
+<ul>
+<li>Orca Dark Roast</li>
+<li>Eagle Medium Roast</li>
+<li>Frog Breakfast Blend</li>
+<li>Thunderbird Dark French</li>
+</ul>
+<p>Want this packaged as a gift? Mention this in the note section at checkout &amp; we will make it pretty! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Blend</s:tag>
+    <s:tag>Dark French Roast</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/5285622120614</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/2227455197243</id>
+    <published>2019-04-26T17:51:25-07:00</published>
+    <updated>2019-04-26T17:51:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/orca-dark-roast-coffee-pods"/>
+    <title>Orca - Dark Roast Coffee Pods</title>
+    <s:type>Dark Roast</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-orca-dark-roast-coffee-pods.jpg?v=1607985246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong>Dark Roast<br>
+        <strong>Price: </strong>
+            5.98 - 42.98
+            <a href="https://spiritbearcoffeecompany.com/products/orca-dark-roast-coffee-pods">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong data-mce-fragment="1">FREE SHIPPING ON ORDERS OVER $100</strong></span></p>
+<p>$1 donation per 24 Orca Dark Roast compostable Keurig®️ compatible pods goes to the Ocean Alliance SnotBot program. <a title="Ocean Alliance SnotBot Collaboration Link" href="https://spiritbearcoffeecompany.com/blogs/news/drink-coffee-save-whales" target="_blank" data-mce-href="https://spiritbearcoffeecompany.com/blogs/news/drink-coffee-save-whales">Click here to find out more.</a></p>
+<p>Goodness is at the heart of this rich and nutty dark roasted coffee. Orca has an intense, rich flavour with a subtle but pleasing finish.</p>
+<p><strong>Flavour</strong>: Rich, spicy, &amp; "Moderate<span> </span>Excellence" in flavour</p>
+<p><strong>Acidity</strong>: Low</p>
+<p><strong>Regions</strong>: Asia &amp; South America</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/2227455197243</id>
+      <title>12 Single Serving Pods</title>
+      <s:price currency="CAD">5.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/2227455197243</id>
+      <title>24 Single Serving Pods</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/2227455197243</id>
+      <title>36 Single Serving Pods</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/2227455197243</id>
+      <title>100 Single Serving Pods</title>
+      <s:price currency="CAD">42.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/2227454771259</id>
+    <published>2019-04-26T17:49:02-07:00</published>
+    <updated>2019-04-26T17:49:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/eagle-medium-roast-coffee-pods"/>
+    <title>Eagle - Medium Roast Coffee Pods</title>
+    <s:type>Medium Roast</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-eagle-medium-roast-coffee-pods.jpg?v=1607984960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong>Medium Roast<br>
+        <strong>Price: </strong>
+            5.98 - 42.98
+            <a href="https://spiritbearcoffeecompany.com/products/eagle-medium-roast-coffee-pods">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong data-mce-fragment="1">FREE SHIPPING ON ORDERS OVER $100</strong></span></p>
+<p>Eagle brings soaring flavour and superb strength to a full bodied cup. Blended from the finest Central and South American beans, Eagle's great taste is sure to satisfy.</p>
+<p><strong>Flavour</strong>: Balanced perfectly for a discerning pallet</p>
+<p><strong>Acidity</strong>: Low</p>
+<p><strong>Regions</strong>: Central &amp; South America</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/2227454771259</id>
+      <title>12 Single Serving Pods</title>
+      <s:price currency="CAD">5.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/2227454771259</id>
+      <title>24 Single Serving Pods</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/2227454771259</id>
+      <title>36 Single Serving Pods</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/2227454771259</id>
+      <title>100 Single Serving Pods</title>
+      <s:price currency="CAD">42.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/1437815701563</id>
+    <published>2018-08-02T12:05:41-07:00</published>
+    <updated>2018-08-02T12:05:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/dolphin-decaffeinated"/>
+    <title>Dolphin - Decaffeinated Coffee</title>
+    <s:type>Decaffeinated</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-dolphin-decaffeinated-medium-roast-coffee.jpg?v=1599062890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong>Decaffeinated<br>
+        <strong>Price: </strong>
+            15.98 - 31.98
+            <a href="https://spiritbearcoffeecompany.com/products/dolphin-decaffeinated">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>FREE SHIPPING ON ORDERS OVER $100</strong></span></p>
+<p>$1 from every 400g bag and $2 from every 1kg bag will go to support Ocean Alliance SnotBot program.  <a href="https://spiritbearcoffeecompany.com/blogs/news/drink-coffee-save-whales" title="Ocean Alliance SnotBot Collaboration Link" target="_blank">Click here to find out more.</a><br></p>
+<p>Naturally Decaffeinated using the Swiss Water ® process, this harmonious blend combines the full flavours of Eastern Asia &amp; Latin America into a single, joyfully smooth cup.</p>
+<p><span><strong>Flavour</strong>: Balanced</span></p>
+<p><span><strong>Acidity</strong>: Low</span></p>
+<p><span><strong>Regions</strong>: South America &amp; Asia</span></p>
+<p><strong>NOTE:</strong> Want your coffee ground? Let us know in the Order Note section at checkout!</p>
+<p><strong>Grind options (in order from coarse to most fine):</strong></p>
+<ul>
+<li>Cold Brew</li>
+<li>French Press</li>
+<li>Percolator</li>
+<li>Commercial Drip (10-12 cup pot)</li>
+<li>Home Drip</li>
+<li>Auto-Drip &amp; Cone Filters</li>
+<li>Reusable Keurig Pod</li>
+<li>Fine</li>
+<li>Espresso 1</li>
+<li>Espresso 2</li>
+<li>Turkish</li>
+</ul>
+<p><span>Not sure which grind is right for you? Tell us how you make your coffee &amp; we will select the best grind for you. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decaffeinated</s:tag>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437815701563</id>
+      <title>400g</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>143500</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437815701563</id>
+      <title>1kg</title>
+      <s:price currency="CAD">31.98</s:price>
+      <s:sku>135500</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/1437813735483</id>
+    <published>2018-08-02T12:05:41-07:00</published>
+    <updated>2018-08-02T12:05:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/thunderbird-dark-french-roast"/>
+    <title>Thunderbird - Dark French Roast Coffee</title>
+    <s:type>Dark French Roast</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-thunderbird-dark-french-roast-coffee.jpg?v=1599063254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong>Dark French Roast<br>
+        <strong>Price: </strong>
+            15.98 - 31.98
+            <a href="https://spiritbearcoffeecompany.com/products/thunderbird-dark-french-roast">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong data-mce-fragment="1">FREE SHIPPING ON ORDERS OVER $100</strong></span></p>
+<p>This Dark French roasted coffee combines the richness of three varietals from Latin America, to create a complex blend with a thunderous taste that is hard to match.</p>
+<p><strong>Flavour</strong>: Spicy &amp; complex</p>
+<p><strong>Acidity</strong>: Low</p>
+<p><strong>Regions</strong>: South America &amp; Africa</p>
+<p><strong>NOTE:</strong> Want your coffee ground? Let us know in the Order Note section at checkout!</p>
+<p><span><strong>Grind options (in order from coarse to most fine):</strong></span></p>
+<ul>
+<li>Cold Brew</li>
+<li>French Press</li>
+<li>Percolator</li>
+<li>Commercial Drip (10-12 cup pot)</li>
+<li>Home Drip</li>
+<li>Auto-Drip &amp; Cone Filters</li>
+<li>Reusable Keurig Pod</li>
+<li>Fine</li>
+<li>Espresso 1</li>
+<li>Espresso 2</li>
+<li>Turkish</li>
+</ul>
+<p><span>Not sure which grind is right for you? Tell us how you make your coffee &amp; we will select the best grind for you. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark French Roast</s:tag>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437813735483</id>
+      <title>400g</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>143700</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437813735483</id>
+      <title>1kg</title>
+      <s:price currency="CAD">31.98</s:price>
+      <s:sku>135700</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/1437811605563</id>
+    <published>2018-08-02T12:05:41-07:00</published>
+    <updated>2018-08-02T12:05:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/orca-dark-roast"/>
+    <title>Orca - Dark Roast Coffee</title>
+    <s:type>Dark Roast</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-orca-dark-roast-coffee.jpg?v=1599063187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong>Dark Roast<br>
+        <strong>Price: </strong>
+            5.98 - 42.98
+            <a href="https://spiritbearcoffeecompany.com/products/orca-dark-roast">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><span style="color: #ff2a00;"><strong data-mce-fragment="1">FREE SHIPPING ON ORDERS OVER $100</strong></span></span></p>
+<p><span>$1 from every 400g bag and $2 from every 1kg bag will go to support Ocean Alliance SnotBot program.  </span><span></span><a title="Ocean Alliance SnotBot Collaboration Link" href="https://spiritbearcoffeecompany.com/blogs/news/drink-coffee-save-whales" target="_blank" data-mce-href="https://spiritbearcoffeecompany.com/blogs/news/drink-coffee-save-whales">Click here to find out more.</a></p>
+<p>Goodness is at the heart of this rich and nutty dark roasted coffee. Orca has intense, rich flavour with a subtle, yet pleasing finish.</p>
+<p><strong>Flavour</strong>: Rich, spicy, &amp; "Moderate Excellence" in flavour</p>
+<p><strong>Acidity</strong>: Low</p>
+<p><strong>Regions</strong>: Asia &amp; South America</p>
+<p><strong>NOTE:</strong> Want your coffee ground? Let us know in the Order Note section at checkout!</p>
+<p><span><strong>Grind options (in order from coarse to most fine):</strong></span></p>
+<ul>
+<li>Cold Brew</li>
+<li>French Press</li>
+<li>Percolator</li>
+<li>Commercial Drip (10-12 cup pot)</li>
+<li>Home Drip</li>
+<li>Auto-Drip &amp; Cone Filters</li>
+<li>Reusable Keurig Pod</li>
+<li>Fine</li>
+<li>Espresso 1</li>
+<li>Espresso 2</li>
+<li>Turkish</li>
+</ul>
+<p><span>Not sure which grind is right for you? Tell us how you make your coffee &amp; we will select the best grind for you. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437811605563</id>
+      <title>400g</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>143600</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437811605563</id>
+      <title>1kg</title>
+      <s:price currency="CAD">31.98</s:price>
+      <s:sku>135600</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437811605563</id>
+      <title>12 Single Serving Pods</title>
+      <s:price currency="CAD">5.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437811605563</id>
+      <title>24 Single Serving Pods</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437811605563</id>
+      <title>36 Single Serving Pods</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437811605563</id>
+      <title>100 Single Serving Pods</title>
+      <s:price currency="CAD">42.98</s:price>
+      <s:sku>754996</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/1437809442875</id>
+    <published>2018-08-02T12:05:41-07:00</published>
+    <updated>2018-08-02T12:05:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/eagle-medium-roast"/>
+    <title>Eagle - Medium Roast Coffee</title>
+    <s:type>Medium Roast</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-eagle-medium-roast-coffee.jpg?v=1599063311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong>Medium Roast<br>
+        <strong>Price: </strong>
+            5.98 - 42.98
+            <a href="https://spiritbearcoffeecompany.com/products/eagle-medium-roast">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong>FREE SHIPPING ON ORDERS OVER $100</strong></span></p>
+<p>Eagle brings soaring flavour and superb strength to a full bodied cup. Blended from the finest Central and South American beans, Eagle's great taste is sure to satisfy.</p>
+<p><strong>Flavour</strong>: Balanced perfectly for a discerning pallet</p>
+<p><strong>Acidity</strong>: Low</p>
+<p><strong>Regions</strong>: Central &amp; South America</p>
+<p><strong>NOTE:</strong> Want your coffee ground? Let us know in the Order Note section at checkout!</p>
+<p><span style="text-decoration: underline;"><strong>Grind options (in order from coarse to most fine):</strong></span></p>
+<ul>
+<li>Cold Brew</li>
+<li>French Press</li>
+<li>Percolator</li>
+<li>Commercial Drip (10-12 cup pot)</li>
+<li>Home Drip</li>
+<li>Auto-Drip &amp; Cone Filters</li>
+<li>Reusable Keurig Pod</li>
+<li>Fine</li>
+<li>Espresso 1</li>
+<li>Espresso 2</li>
+<li>Turkish</li>
+</ul>
+<p><span>Not sure which grind is right for you? Tell us how you make your coffee &amp; we will select the best grind for you. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Medium Roast</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437809442875</id>
+      <title>400g</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>143550</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437809442875</id>
+      <title>1kg</title>
+      <s:price currency="CAD">31.98</s:price>
+      <s:sku>135550</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437809442875</id>
+      <title>12 Single Serving Pods</title>
+      <s:price currency="CAD">5.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437809442875</id>
+      <title>24 Single Serving Pods</title>
+      <s:price currency="CAD">10.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437809442875</id>
+      <title>36 Single Serving Pods</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437809442875</id>
+      <title>100 Single Serving Pods</title>
+      <s:price currency="CAD">42.98</s:price>
+      <s:sku>754992</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/1437443653691</id>
+    <published>2018-08-02T12:05:41-07:00</published>
+    <updated>2018-08-02T12:05:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/frog-breakfast-blend-1"/>
+    <title>Frog - Breakfast Blend Coffee</title>
+    <s:type>Breakfast Blend</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-frog-breakfast-blend-coffee.jpg?v=1599063116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong>Breakfast Blend<br>
+        <strong>Price: </strong>
+            15.98 - 31.98
+            <a href="https://spiritbearcoffeecompany.com/products/frog-breakfast-blend-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong data-mce-fragment="1">FREE SHIPPING ON ORDERS OVER $100</strong></span></p>
+<p>Jump start your day with this incredibly smooth and flavourful coffee. Roasted lighter, this combination of Latin American coffees is a wise choice for your early morning cup. This Frog blend has the highest caffeine content in the Spirit Bear Coffee lineup. </p>
+<p><strong>Flavour</strong>: Rich sweet aroma, great flavour and a very pleasant, short finish</p>
+<p><strong>Acidity</strong>: Low</p>
+<p><strong>Regions</strong>: Central &amp; South America</p>
+<p><strong>NOTE:</strong> Want your coffee ground? Let us know in the Order Note section at checkout!</p>
+<p><span><strong>Grind options (in order from coarse to most fine):</strong></span></p>
+<ul>
+<li>Cold Brew</li>
+<li>French Press</li>
+<li>Percolator</li>
+<li>Commercial Drip (10-12 cup pot)</li>
+<li>Home Drip</li>
+<li>Auto-Drip &amp; Cone Filters</li>
+<li>Reusable Keurig Pod</li>
+<li>Fine</li>
+<li>Espresso 1</li>
+<li>Espresso 2</li>
+<li>Turkish</li>
+</ul>
+<p><span>Not sure which grind is right for you? Tell us how you make your coffee &amp; we will select the best grind for you. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Breakfast Blend</s:tag>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437443653691</id>
+      <title>400g</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>143580</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437443653691</id>
+      <title>1kg</title>
+      <s:price currency="CAD">31.98</s:price>
+      <s:sku>135580</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/1437012688955</id>
+    <published>2018-08-02T12:05:41-07:00</published>
+    <updated>2018-08-02T12:05:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/raven-espresso-1"/>
+    <title>Raven - Espresso</title>
+    <s:type>Expresso</s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-raven-espresso-roast-coffee.jpg?v=1598030646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong>Expresso<br>
+        <strong>Price: </strong>
+            15.98 - 31.98
+            <a href="https://spiritbearcoffeecompany.com/products/raven-espresso-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff2a00;"><strong data-mce-fragment="1">FREE SHIPPING ON ORDERS OVER $100</strong></span></p>
+<p>Full of life and strength, our espresso has been created to deliver a ravenous flavour and a long finish. A discerning flavour for those who appreciate good times and great coffee. <br></p>
+<p><strong>Flavour</strong>: Rich, balanced with notes of dark chocolate</p>
+<p><strong>Acidity</strong>: Low</p>
+<p><strong>Regions</strong>: Central and South America, Asia, &amp; Africa</p>
+<p><strong>NOTE:</strong> Want your coffee ground? Let us know in the Order Note section at checkout!</p>
+<p><span><strong>Grind options (in order from coarse to most fine):</strong></span></p>
+<ul>
+<li>Cold Brew</li>
+<li>French Press</li>
+<li>Percolator</li>
+<li>Commercial Drip (10-12 cup pot)</li>
+<li>Home Drip</li>
+<li>Auto-Drip &amp; Cone Filters</li>
+<li>Reusable Keurig Pod</li>
+<li>Fine</li>
+<li>Espresso 1</li>
+<li>Espresso 2</li>
+<li>Turkish</li>
+</ul>
+<p>Not sure which grind is right for you? Tell us how you make your coffee &amp; we will select the best grind for you. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Espresso</s:tag>
+    <s:tag>Fair-trade</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437012688955</id>
+      <title>400g</title>
+      <s:price currency="CAD">15.98</s:price>
+      <s:sku>143650</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/1437012688955</id>
+      <title>1kg</title>
+      <s:price currency="CAD">31.98</s:price>
+      <s:sku>135650</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

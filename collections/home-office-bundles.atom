@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://spiritbearcoffeecompany.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://spiritbearcoffeecompany.com/collections/home-office-bundles.atom"/>
+  <title>Spirit Bear Coffee Company</title>
+  <updated>2019-01-12T17:41:28-08:00</updated>
+  <author>
+    <name>Spirit Bear Coffee Company</name>
+  </author>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/2043784593467</id>
+    <published>2019-01-12T17:41:28-08:00</published>
+    <updated>2019-01-12T17:41:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/copy-of-small-office-bundle"/>
+    <title>Large Bundle</title>
+    <s:type></s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-large-office-bundle-coffee-pods-2.jpg?v=1610126906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stay well stocked with a variety of Spirit Bear Coffee pods to help fuel your day. </p>
+<p>The Large Bundle includes:</p>
+<ul>
+<li>UniServe Coffee Brewer</li>
+<li>Eagle Medium Roast Single Serving Pods X 200</li>
+<li>Orca Dark Roast Single Serving Pods X 200</li>
+</ul>
+<p><span>* </span><em>Spirit Bear Coffee pods are Kuerig compatible and 100% compostable </em></p>
+<p><strong>Uni-Serve Coffee Brewer </strong></p>
+<p>Compatible with all K-Cups &amp; features a 65oz water reservoir.</p>
+<p><strong>Eagle Medium Roast</strong></p>
+<p>Roasted just slightly past medium to bring out it’s full glory, this artisan blend is what some have referred to as “the best damn coffee they’ve ever had!” We agree.</p>
+<p><strong>Orca Dark Roast</strong></p>
+<p>Orca is the First Nations symbol of Good and goodness is what this bold, medium-dark coffee is all about. Rich and intense with notes of roasted nuts and a subtle finish.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>PODS FOR USE BY OWNERS OF KEURIG® COFFEE MAKERS. READ OUR <a title="FAQs" href="https://spiritbearcoffeecompany.com/pages/faqs" target="_blank">FAQs</a> FOR COMPATIBILITY DETAILS.</p>
+<p><span>SPIRIT BEAR COFFEE HAS NO AFFILIATION WITH KEURIG, OR K-CUP.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/2043784593467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">399.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://spiritbearcoffeecompany.com/products/2042265010235</id>
+    <published>2019-01-12T17:41:28-08:00</published>
+    <updated>2019-01-12T17:41:28-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://spiritbearcoffeecompany.com/products/small-office-or-home-bundle"/>
+    <title>Small Bundle</title>
+    <s:type></s:type>
+    <s:vendor>Spirit Bear Coffee Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0070/4911/7755/products/sbcc-small-office-bundle-coffee-pods-2.jpg?v=1610126905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spirit Bear Coffee Company<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            199.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your small office or home well stocked with a variety of Spirit Bear Coffee pods to help fuel your day.  The Small Office or Home Bundle includes:</p>
+<ul>
+<li>Hamilton Beach Single Serve Coffee Brewer</li>
+<li>Eagle Medium Roast Single Serving Pods X 100</li>
+<li>Orca Dark Roast Single Serving Pods X 100</li>
+</ul>
+<p><span>* </span><em>Spirit Bear Coffee pods are Kuerig compatible and 100% compostable </em></p>
+<p><strong>Hamilton Beach Single-Serve Coffee Maker</strong></p>
+<p>The Hamilton Beach Single-Serve Coffee Maker lets you easily make a cup of coffee using K-cups. This versatile coffee maker fits perfectly on any kitchen counter-top and fits travel mugs! Brew up to a 14oz cup.</p>
+<p><strong>Eagle Medium Roast</strong></p>
+<p>Roasted just slightly past medium to bring out it’s full glory, this artisan blend is what some have referred to as “the best damn coffee they’ve ever had!” We agree.</p>
+<p><strong>Orca Dark Roast</strong></p>
+<p>Orca is the First Nations symbol of Good and goodness is what this bold, medium-dark coffee is all about. Rich and intense with notes of roasted nuts and a subtle finish.</p>
+<p> </p>
+<p> </p>
+<p>FOR USE BY OWNERS OF KEURIG® COFFEE MAKERS. READ OUR <a href="https://spiritbearcoffeecompany.com/pages/faqs" title="FAQs" target="_blank">FAQs</a> FOR COMPATIBILITY DETAILS.</p>
+<p><span>SPIRIT BEAR COFFEE HAS NO AFFILIATION WITH KEURIG, OR K-CUP.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://spiritbearcoffeecompany.com/products/2042265010235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.98</s:price>
+      <s:sku></s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+</feed>
